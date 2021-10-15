@@ -275,6 +275,9 @@ article {
 padding-left: 2rem;
 padding-right: 2rem; 
 }
+main article {
+    padding: 2rem;
+    }
 
 }  
 
